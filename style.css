@@ -38,7 +38,7 @@ body {
 .hero {
     height: 70vh;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-                url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Saint_Petersburg_Neva_River_at_night.jpg/1280px-Saint_Petersburg_Neva_River_at_night.jpg') center/cover;
+                url('https://stihi.ru/pics/2023/01/18/2332.jpg') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
